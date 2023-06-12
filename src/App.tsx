@@ -1,16 +1,7 @@
 import React from "react";
 
 function App() {
-  return (
-    <form>
-      <input
-        type="radio"
-        id="javascript"
-        name="fav_language"
-        value="JavaScript"
-      />
-    </form>
-  );
+  return <>Crypto App</>;
 }
 
 export default App;
